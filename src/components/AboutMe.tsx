@@ -25,8 +25,8 @@ export default function AboutMe() {
           <div className="max-w-xl flex-auto">
             <h3 className="text-lg font-semibold leading-8 tracking-tight text-white">Sebastian Ruiz</h3>
             <p className="text-base leading-7 text-work_experience_orange">Full Stack Web Developer</p>
-            <p className="mt-4 text-lg text-gray-500">As a seasoned software engineer, I thrive on the exhilaration of exploring and mastering the frontier of emerging technologies. My passion lies in delving deep into the digital world's newest advancements, constantly enriching my skill set and pushing the boundaries of what's possible in software development.</p>
-            <p className="mt-4 text-lg text-gray-500">Having navigated the software development landscape for over a decade, I've had the opportunity to engage with a broad spectrum of both front-end and back-end technologies.</p>
+            <p className="mt-4 text-lg text-gray-500">As a seasoned software engineer, I thrive on the exhilaration of exploring and mastering the frontier of emerging technologies. My passion lies in delving deep into the digital world&apos;s newest advancements, constantly enriching my skill set and pushing the boundaries of what&apos;s possible in software development.</p>
+            <p className="mt-4 text-lg text-gray-500">Having navigated the software development landscape for over a decade, I&apos;ve had the opportunity to engage with a broad spectrum of both front-end and back-end technologies.</p>
           </div>
           <div className="flex-none mx-auto">
             <Image className="rounded-full object-cover" src='/sebie.jpeg' alt="" height={208} width={208} />

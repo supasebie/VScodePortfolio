@@ -119,7 +119,7 @@ export default function Index() {
                 </span>{' '}
                 / &#8205; <AnimatedTitle />
               </div>
-              <p className="max-w-3xl">I'm a Senior Full Stack Developer, with expertise in both front-end and back-end technologies. My front end proficiencies include Angular, React, TypeScript, and a passion for crafting dynamic and responsive user interfaces with a focus on user experience. On the server side, I have extensive knowledge of .NET 8, C#, Web API, ASP.NET MVC, SQL and EFCore/ORM that provide me capacity to develop scalable, efficient back-end architectures.</p>
+              <p className="max-w-3xl">I&apos;m a Senior Full Stack Developer, with expertise in both front-end and back-end technologies. My front end proficiencies include Angular, React, TypeScript, and a passion for crafting dynamic and responsive user interfaces with a focus on user experience. On the server side, I have extensive knowledge of .NET 8, C#, Web API, ASP.NET MVC, SQL and EFCore/ORM that provide me capacity to develop scalable, efficient back-end architectures.</p>
             </FadeIn>
 
             <Socials />
